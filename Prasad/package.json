@@ -1,6 +1,7 @@
 {
-  "name": "secure-vault-cloud",
+  "name": "secure-vault",
   "version": "1.0.0",
+  "description": "Secure file transfer vault",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
